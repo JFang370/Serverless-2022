@@ -1,24 +1,11 @@
 {
   "name": "serverless-2022",
   "version": "1.0.0",
-  "description": "![Newsletter](https://user-images.githubusercontent.com/69332964/114803220-14269100-9d6d-11eb-9a3a-e92a637e5d79.png)",
+  "description": "",
   "scripts": {
     "start": "func start",
     "test": "echo \"No tests yet...\""
   },
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JFang370/Serverless-2022.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/JFang370/Serverless-2022/issues"
-  },
-  "homepage": "https://github.com/JFang370/Serverless-2022#readme",
-  "dependencies": {
-    "node-fetch": "^2.6.2"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
