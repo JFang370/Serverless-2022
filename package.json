@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/JFang370/Serverless-2022#readme",
   "dependencies": {
-    "node-fetch": "^2.6.2"
+    "morse-code-converter": "^1.0.2",
+    "node-fetch": "^2.6.7"
   }
 }
